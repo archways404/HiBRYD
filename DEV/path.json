@@ -1,0 +1,149 @@
+{
+  "name": "web",
+  "full_path": "C:\\Users\\archways\\Documents\\GitHub\\softw404\\web",
+  "files": [
+    {
+      "name": ".eslintrc.json",
+      "file_type": "json",
+      "full_path": "C:\\Users\\archways\\Documents\\GitHub\\softw404\\web\\.eslintrc.json"
+    },
+    {
+      "name": ".gitignore",
+      "file_type": "unknown",
+      "full_path": "C:\\Users\\archways\\Documents\\GitHub\\softw404\\web\\.gitignore"
+    },
+    {
+      "name": "jsconfig.json",
+      "file_type": "json",
+      "full_path": "C:\\Users\\archways\\Documents\\GitHub\\softw404\\web\\jsconfig.json"
+    },
+    {
+      "name": "next.config.js",
+      "file_type": "js",
+      "full_path": "C:\\Users\\archways\\Documents\\GitHub\\softw404\\web\\next.config.js"
+    },
+    {
+      "name": "package-lock.json",
+      "file_type": "json",
+      "full_path": "C:\\Users\\archways\\Documents\\GitHub\\softw404\\web\\package-lock.json"
+    },
+    {
+      "name": "package.json",
+      "file_type": "json",
+      "full_path": "C:\\Users\\archways\\Documents\\GitHub\\softw404\\web\\package.json"
+    },
+    {
+      "name": "postcss.config.mjs",
+      "file_type": "mjs",
+      "full_path": "C:\\Users\\archways\\Documents\\GitHub\\softw404\\web\\postcss.config.mjs"
+    },
+    {
+      "name": "README.md",
+      "file_type": "md",
+      "full_path": "C:\\Users\\archways\\Documents\\GitHub\\softw404\\web\\README.md"
+    },
+    {
+      "name": "tailwind.config.js",
+      "file_type": "js",
+      "full_path": "C:\\Users\\archways\\Documents\\GitHub\\softw404\\web\\tailwind.config.js"
+    }
+  ],
+  "subfolders": [
+    {
+      "name": "pages",
+      "full_path": "C:\\Users\\archways\\Documents\\GitHub\\softw404\\web\\pages",
+      "files": [
+        {
+          "name": "home.js",
+          "file_type": "js",
+          "full_path": "C:\\Users\\archways\\Documents\\GitHub\\softw404\\web\\pages\\home.js"
+        },
+        {
+          "name": "index.js",
+          "file_type": "js",
+          "full_path": "C:\\Users\\archways\\Documents\\GitHub\\softw404\\web\\pages\\index.js"
+        },
+        {
+          "name": "_app.js",
+          "file_type": "js",
+          "full_path": "C:\\Users\\archways\\Documents\\GitHub\\softw404\\web\\pages\\_app.js"
+        },
+        {
+          "name": "_document.js",
+          "file_type": "js",
+          "full_path": "C:\\Users\\archways\\Documents\\GitHub\\softw404\\web\\pages\\_document.js"
+        }
+      ],
+      "subfolders": [
+        {
+          "name": "api",
+          "full_path": "C:\\Users\\archways\\Documents\\GitHub\\softw404\\web\\pages\\api",
+          "files": [
+            {
+              "name": "hello.js",
+              "file_type": "js",
+              "full_path": "C:\\Users\\archways\\Documents\\GitHub\\softw404\\web\\pages\\api\\hello.js"
+            }
+          ],
+          "subfolders": []
+        },
+        {
+          "name": "components",
+          "full_path": "C:\\Users\\archways\\Documents\\GitHub\\softw404\\web\\pages\\components",
+          "files": [
+            {
+              "name": "Footer.js",
+              "file_type": "js",
+              "full_path": "C:\\Users\\archways\\Documents\\GitHub\\softw404\\web\\pages\\components\\Footer.js"
+            }
+          ],
+          "subfolders": []
+        }
+      ]
+    },
+    {
+      "name": "public",
+      "full_path": "C:\\Users\\archways\\Documents\\GitHub\\softw404\\web\\public",
+      "files": [
+        {
+          "name": "favicon.ico",
+          "file_type": "ico",
+          "full_path": "C:\\Users\\archways\\Documents\\GitHub\\softw404\\web\\public\\favicon.ico"
+        },
+        {
+          "name": "next.svg",
+          "file_type": "svg",
+          "full_path": "C:\\Users\\archways\\Documents\\GitHub\\softw404\\web\\public\\next.svg"
+        },
+        {
+          "name": "vercel.svg",
+          "file_type": "svg",
+          "full_path": "C:\\Users\\archways\\Documents\\GitHub\\softw404\\web\\public\\vercel.svg"
+        },
+        {
+          "name": "wallp_animation.mp4",
+          "file_type": "mp4",
+          "full_path": "C:\\Users\\archways\\Documents\\GitHub\\softw404\\web\\public\\wallp_animation.mp4"
+        },
+        {
+          "name": "wallp_animation.webm",
+          "file_type": "webm",
+          "full_path": "C:\\Users\\archways\\Documents\\GitHub\\softw404\\web\\public\\wallp_animation.webm"
+        }
+      ],
+      "subfolders": []
+    },
+    {
+      "name": "styles",
+      "full_path": "C:\\Users\\archways\\Documents\\GitHub\\softw404\\web\\styles",
+      "files": [
+        {
+          "name": "globals.css",
+          "file_type": "css",
+          "full_path": "C:\\Users\\archways\\Documents\\GitHub\\softw404\\web\\styles\\globals.css"
+        }
+      ],
+      "subfolders": []
+    }
+  ]
+}

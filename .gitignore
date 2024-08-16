@@ -4,3 +4,4 @@ application/src-tauri/file_data.json
 application/src-tauri/Cargo.lock
 application/package-lock.json
 /node_modules
+/DEV/target
