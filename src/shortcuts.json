@@ -1,0 +1,6 @@
+{
+	"save": {
+		"description": "Save the current file",
+		"keys": ["Control+S", "Meta+S"]
+	}
+}
